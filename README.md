@@ -28,7 +28,7 @@ LocalOutlierFacotor is used for finding 'good deals'.
 
 _(Based on the model evaluation, diamonds with no obvious defects (where 'predict()' returns -1) and priced below the normal range are considered 'good deals'.)_
 
-## use_model.py
+# use_model.py
 
 A simple application.
 
